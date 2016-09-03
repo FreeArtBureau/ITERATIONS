@@ -36,7 +36,7 @@ Un tutorial en français sur les bases de la programmation orientée objet avec 
 - [Processing: s'initier à la programmation créative](https://www.amazon.fr/Processing-Sinitier-programmation-cr-ative/dp/2100737848/ref=oosr)
 Un livre en français qui explique bien les bases
 
-[Design génératif–Concevoir, programmer, visualiser](https://www.amazon.fr/Design-g%C3%A9n%C3%A9ratif-Concevoir-programmer-visualiser/dp/2350172155/ref=sr_1_1?s=books&ie=UTF8&qid=1472898919&sr=1-1&keywords=Design+g%C3%A9n%C3%A9ratif)
+- [Design génératif–Concevoir, programmer, visualiser](https://www.amazon.fr/Design-g%C3%A9n%C3%A9ratif-Concevoir-programmer-visualiser/dp/2350172155/ref=sr_1_1?s=books&ie=UTF8&qid=1472898919&sr=1-1&keywords=Design+g%C3%A9n%C3%A9ratif)
 Un très beau livre qui explique des mécanismes du design dit génératif.
 
 - [Floss Manuals : Processing](https://fr.flossmanuals.net/processing/introduction/)
