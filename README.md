@@ -11,9 +11,9 @@ Une liste de ressources pour mes workshops iterations
 
 ###OUTILS
 
-Hackpad
+- [Hackpad : Iterations](https://iterations.hackpad.com/)
 Un éditeur de texte collaboratif en ligne que nous utilisons pendant les workshops
-[Hackpad : Iterations](https://iterations.hackpad.com/)
+
 
 Codelab
 Un forum sur Processing pour poser des questions et trouver événtuellement les réponses.
