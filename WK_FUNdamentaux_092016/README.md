@@ -1,7 +1,12 @@
-# VARIABLES : Les FUNdamentaux
+#Les FUNdamentaux
 
 Voic vous trouverez quelques exemples de programmes utilisés 
 lors de nos sessions ensemble. 
+
+- Variables
+- Fonctions
+- Structures de contrôles
+- Iteration
 
 
 ### ITERATIONS
