@@ -8,6 +8,9 @@ lors de nos sessions ensemble.
 - Structures de contrôles
 - Iteration
 
+![iterations_recursion_00](https://cloud.githubusercontent.com/assets/1027891/18391552/98e66388-76ae-11e6-8917-59dd7123093b.jpg)
+Exemple du concept de la récursion
+
 
 ### ITERATIONS
 
