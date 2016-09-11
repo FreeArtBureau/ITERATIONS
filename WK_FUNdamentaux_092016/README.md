@@ -4,7 +4,7 @@ Voic vous trouverez quelques exemples de programmes utilisés
 lors de nos sessions ensemble. 
 
 - [Variables](https://github.com/FreeArtBureau/ITERATIONS/tree/master/WK_FUNdamentaux_092016/a_VARIABLES)
-- Fonctions
+- [Fonctions](https://github.com/FreeArtBureau/ITERATIONS/tree/master/WK_FUNdamentaux_092016/b_FUNCTIONS)
 - Structures de contrôles
 - Iteration
 
