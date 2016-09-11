@@ -11,7 +11,7 @@ Iterations est une série d'ateliers créatifs dédiés aux artistes et designer
 [Workshop I : Les FUNdamentaux](https://github.com/FreeArtBureau/ITERATIONS/tree/master/WK_FUNdamentaux_092016)
 
 - Une série de 4 Workshops qui expliquent et explorent les fondamentaux de la programmation.
-- Lieu : La Machinerie | Date : 07.09.2016 (date du premier workshop, ensuite tous les mercredi soir).
+- Lieu : [La Machinerie](http://lamachinerie.org/) | Date : 07.09.2016 (date du premier workshop, ensuite tous les mercredi soir).
 
 ## RESSOURCES
 Une liste de ressources pour mes workshops iterations
