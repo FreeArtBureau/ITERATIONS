@@ -6,6 +6,10 @@ Iterations est une série d'ateliers créatifs dédiés aux artistes et designer
 
 [www.iterations.fabprojects.codes](http://www.iterations.fabprojects.codes/)
 
+## WORKSHOPS
+
+[Workshop I : Les FUNdamentaux](https://github.com/FreeArtBureau/ITERATIONS/tree/master/WK_FUNdamentaux_092016)
+
 ## RESSOURCES
 Une liste de ressources pour mes workshops iterations
 
