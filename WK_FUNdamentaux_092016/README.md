@@ -8,7 +8,7 @@ lors de nos sessions ensemble.
 - Structures de contrôles
 - Iteration
 
-![iterations_variables](https://cloud.githubusercontent.com/assets/1027891/18416724/576becce-781c-11e6-84a0-dbf5eb38b8d7.jpg)
+![iterations_variables2](https://cloud.githubusercontent.com/assets/1027891/18541847/fc90fe84-7b27-11e6-891d-9867af7998f9.jpg)
 Exemples graphiques d'un système simple qui démontre l'utilisation de variables
 
 ![iterations_recursion_00](https://cloud.githubusercontent.com/assets/1027891/18391552/98e66388-76ae-11e6-8917-59dd7123093b.jpg)
