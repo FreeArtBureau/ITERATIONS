@@ -14,6 +14,9 @@ Exemples graphiques d'un système simple qui démontre l'utilisation de variable
 ![iterations_recursion_00](https://cloud.githubusercontent.com/assets/1027891/18391552/98e66388-76ae-11e6-8917-59dd7123093b.jpg)
 Exemple du concept de la récursion
 
+![iteration_307](https://cloud.githubusercontent.com/assets/1027891/18708645/40ff8422-7ffc-11e6-9f13-3c4fe83bedb4.png)
+Exemple d'un système itératif qui propose des combinaisons de formes pour la letter 'a'
+
 
 ### ITERATIONS
 
