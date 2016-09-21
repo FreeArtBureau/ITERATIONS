@@ -5,7 +5,7 @@ lors de nos sessions ensemble.
 
 - [Variables](https://github.com/FreeArtBureau/ITERATIONS/tree/master/WK_FUNdamentaux_092016/a_VARIABLES)
 - [Fonctions](https://github.com/FreeArtBureau/ITERATIONS/tree/master/WK_FUNdamentaux_092016/b_FUNCTIONS)
-- Structures de contrôles
+- [Structures de contrôles](https://github.com/FreeArtBureau/ITERATIONS/tree/master/WK_FUNdamentaux_092016/c_CONTROLE)
 - Iteration
 
 ![iterations_variables2](https://cloud.githubusercontent.com/assets/1027891/18541847/fc90fe84-7b27-11e6-891d-9867af7998f9.jpg)
