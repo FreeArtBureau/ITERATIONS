@@ -1,11 +1,8 @@
 /*
- * Recursion Trees_02
- * Tree function by Robert Sedgewick & Kevin Wayne
- * link : http://introcs.cs.princeton.edu/java/23recursion/Tree.java.html
- * A more elegant version of the tree algorithm in my opinion 
+ * SpaceFIlling Trees_01
+ * https://en.wikipedia.org/wiki/Space-filling_tree
  *
- * REF : http://introcs.cs.princeton.edu/java/23recursion/
- * more can be read about fractals in general here : 
+ * More can be read about fractals in general here : 
  * >>> http://www.fractalcurves.com/
  */
 
@@ -24,10 +21,10 @@ void setup() {
 void draw() {
   randomSeed(1000);
   background(33);
-  translate(width/2, height-30);  
+  //translate(width/2, height-30);  
   
   int num = (int)map(mouseX, 0, width*2, 1, 18);
-  tree(num, 0, 0, radians(-90), 100);
+  tree(num, width/2, height/2, radians(-90), 100);
 }
 
 
