@@ -25,6 +25,14 @@ Un éditeur de texte collaboratif en ligne que nous utilisons pendant les worksh
 Un forum sur Processing pour poser des questions et trouver événtuellement les réponses.
 Il y a une bonne page de ressources (tutos, livres, sites...) sur ce forum et qui se trouve [en cliquant ce lien.](http://codelab.fr/39)
 
+- [P5.js online editor](https://alpha.editor.p5js.org)
+Un éditeur de P5.js
+
+- [Sketchpad](http://p5js.sketchpad.cc/sp/account/create-account)
+Un éditeur de code collaboratif en ligne pour Processing
+
+
+
 
 ###LIENS PRATIQUES
 
