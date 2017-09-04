@@ -6,8 +6,7 @@ Qu'est-ce qu'une fonction ?
 
 ###LIENS PRATIQUES
 
-- [https://fr.flossmanuals.net/processing/les-methodes/](Tutoriel sur les fonctions/méthodes en Processing)
-
+[https://fr.flossmanuals.net/processing/les-methodes/](Tutoriel sur les fonctions/méthodes en Processing)
 
 
 
