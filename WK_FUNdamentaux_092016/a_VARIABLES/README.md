@@ -6,8 +6,8 @@ Une variable permet de stocker en mémoire des données. Ces données peuvent ê
 
 ###LIENS PRATIQUES
 
-- [https://fr.wikipedia.org/wiki/Variable_(informatique)](Article sur Wikipedia)
-- [https://openclassrooms.com/courses/apprenez-a-programmer-en-java/les-variables-et-les-operateurs](Tutoriel sur les variables et les opérateurs en Java)
+- [Article sur Wikipedia](https://fr.wikipedia.org/wiki/Variable_(informatique))
+- [Tutoriel sur les variables et les opérateurs en Java](https://openclassrooms.com/courses/processing-1/variables-3)
 
 Iterations est une série d'ateliers créatifs dédiés aux artistes et designers qui souhaitent apprendre et pratiquer une approche du "computational design". Ces ateliers sont soigneusement préparés et menés par Mark Webster dans un but de partager un savoir-faire de l'artisanat numérique d'aujourd'hui. 
 
