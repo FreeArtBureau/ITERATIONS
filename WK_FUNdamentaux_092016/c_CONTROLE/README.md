@@ -6,7 +6,7 @@ Et si on choisissait celui ci et pas celui là ?
 
 ###LIENS PRATIQUES
 
-- [https://fr.wikipedia.org/wiki/Structure_de_contr%C3%B4le](Pour commencer, qu'est-ce qu'une structure de contrôle en programmation ?)
+- [https://fr.wikipedia.org/wiki/Structure_de_contr%C3%B4le] (Pour commencer, qu'est-ce qu'une structure de contrôle en programmation ?)
 - [https://openclassrooms.com/courses/processing-1/structures-de-controle-1](Tutoriel en français avec un peu plus d'information sur les boucles aussi)
 
 
